@@ -443,3 +443,10 @@ margin-top: 25%;
     opacity: 0.62;
   }
 }
+
+.navv{
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+}
